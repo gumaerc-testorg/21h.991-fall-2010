@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Digital Humanities
 uid: 36ce9337-f122-243c-0bfb-6f57d3a01f9e
 ---

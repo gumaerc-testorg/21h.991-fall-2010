@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Industrial Revolution: Why Britain?'
 uid: 7aaebafe-c540-d6fa-5194-b8076343bb13
 ---

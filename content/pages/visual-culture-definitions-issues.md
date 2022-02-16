@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Visual Culture: Definitions, Issues'
 uid: 0eb55ecc-7eed-57c2-09b3-2ff25dcdb754
 ---

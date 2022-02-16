@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Women's History and Gender
 uid: d5acf813-bc67-8cfc-1f3c-9ca3f79d6c60
 ---

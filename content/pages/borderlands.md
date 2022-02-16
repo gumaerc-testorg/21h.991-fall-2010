@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Borderlands
 uid: f9df138b-1218-863d-4a9f-fa14df1001cb
 ---

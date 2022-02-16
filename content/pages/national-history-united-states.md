@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'National History: United States'
 uid: 662625a2-e35d-a1c6-7dea-fcea7b8b5ca2
 ---

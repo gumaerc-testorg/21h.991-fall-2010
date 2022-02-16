@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Environmental History
 uid: b4b85857-26a0-9c55-7be6-e00c527a2726
 ---
