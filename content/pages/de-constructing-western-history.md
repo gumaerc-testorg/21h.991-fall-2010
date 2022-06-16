@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains readings, questions, and a list of further readings
+  about the construction and deconstruction of the Western historic tradition.
 learning_resource_types: []
 ocw_type: CourseSection
 title: De/Constructing Western History

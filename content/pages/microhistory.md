@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains readings, questions, and a list of further readings
+  about microhistories.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Microhistory

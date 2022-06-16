@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains readings, questions, and a list of further readings
+  about the Industrial Revolution in Britain and around the world.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Industrial Revolution: Why Britain?'
