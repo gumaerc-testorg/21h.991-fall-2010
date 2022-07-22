@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains readings, questions, and a list of further readings
+  about women and historical gender roles.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Women's History and Gender
 uid: d5acf813-bc67-8cfc-1f3c-9ca3f79d6c60
 ---

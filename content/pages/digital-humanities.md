@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains readings, questions, and a list of further readings
+  about digital humanities, printing, and libraries.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Digital Humanities
 uid: 36ce9337-f122-243c-0bfb-6f57d3a01f9e
 ---

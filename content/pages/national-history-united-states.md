@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains readings, questions, and a list of further readings
+  about national history, using the United States as a focal example.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'National History: United States'
 uid: 662625a2-e35d-a1c6-7dea-fcea7b8b5ca2
 ---

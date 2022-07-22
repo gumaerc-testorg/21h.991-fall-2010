@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This page contains readings, questions, and a list of further readings
+  about environmental history.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Environmental History
 uid: b4b85857-26a0-9c55-7be6-e00c527a2726
 ---

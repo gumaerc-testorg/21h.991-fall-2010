@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on meeting times, requirements, grading, books, and the schedule of topics.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 417c4d04-39e2-3e41-d71c-2c6c3222a8cc
 ---
@@ -86,7 +90,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Introduction: Constructing and de-constructing history in the western tradition]({{< baseurl >}}/pages/de-constructing-western-history)
+{{% resource_link 75a507aa-4e0c-6d4c-fb93-c81fa40d6878 "Introduction: Constructing and de-constructing history in the western tradition" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +99,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[National history: The case of the United States]({{< baseurl >}}/pages/national-history-united-states)
+{{% resource_link 662625a2-e35d-a1c6-7dea-fcea7b8b5ca2 "National history: The case of the United States" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +108,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Borderlands]({{< baseurl >}}/pages/borderlands)
+{{% resource_link f9df138b-1218-863d-4a9f-fa14df1001cb "Borderlands" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +117,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Global perspectives]({{< baseurl >}}/pages/global-perspectives)
+{{% resource_link 54cdfc91-e734-db6b-dc3d-9186491a5dbd "Global perspectives" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +126,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Microhistory]({{< baseurl >}}/pages/microhistory)
+{{% resource_link 4271a69f-fa09-2b77-a1ff-259560ecf130 "Microhistory" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +137,7 @@ TOPICS
 {{< tdopen >}}
 
 
-[Environmental history]({{< baseurl >}}/pages/environmental-history)
+{{% resource_link b4b85857-26a0-9c55-7be6-e00c527a2726 "Environmental history" %}}
 
 Guest lecture: Prof. Harriet Ritvo, History
 
@@ -148,7 +152,7 @@ Guest lecture: Prof. Harriet Ritvo, History
 {{< tdopen >}}
 
 
-[Women's history and gender]({{< baseurl >}}/pages/womens-history-and-gender)
+{{% resource_link d5acf813-bc67-8cfc-1f3c-9ca3f79d6c60 "Women's history and gender" %}}
 
 Guest lecture: Prof. Elizabeth Wood, History
 
@@ -163,7 +167,7 @@ Guest lecture: Prof. Elizabeth Wood, History
 {{< tdopen >}}
 
 
-[The Industrial Revolution: Why Britain?]({{< baseurl >}}/pages/industrial-revolution-why-britain)
+{{% resource_link 7aaebafe-c540-d6fa-5194-b8076343bb13 "The Industrial Revolution: Why Britain?" %}}
 
 Guest lecture: Prof. Anne McCants, History
 
@@ -178,7 +182,7 @@ Guest lecture: Prof. Anne McCants, History
 {{< tdopen >}}
 
 
-[Visual culture: definitions, issues]({{< baseurl >}}/pages/visual-culture-definitions-issues)
+{{% resource_link 0eb55ecc-7eed-57c2-09b3-2ff25dcdb754 "Visual culture: definitions, issues" %}}
 
 Guest lecture: Prof. Caroline A. Jones, Architecture
 
@@ -193,7 +197,7 @@ Guest lecture: Prof. Caroline A. Jones, Architecture
 {{< tdopen >}}
 
 
-[Media studies: old and new media ca. 1450, 1890, & 2010]({{< baseurl >}}/pages/media-studies-1450-1890-2010)
+{{% resource_link 0064e8c9-eca7-1428-1fe6-e565757943eb "Media studies: old and new media ca. 1450, 1890, & 2010" %}}
 
 Guest lecture: Prof. William Uricchio, Literature and Comparative Media Studies
 
@@ -215,7 +219,7 @@ Individual consultations with instructor
 12
 {{< tdclose >}}
 {{< tdopen >}}
-[Digital humanities, publishing, and the library]({{< baseurl >}}/pages/digital-humanities)
+{{% resource_link 36ce9337-f122-243c-0bfb-6f57d3a01f9e "Digital humanities, publishing, and the library" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
