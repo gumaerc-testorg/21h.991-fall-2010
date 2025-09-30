@@ -65,7 +65,7 @@ Allen, Robert C. _The British Industrial Revolution in Global Perspective_. Camb
 
 Elkins, James. _Six Stories From the End of Representation: Images in Painting, Photography, Astronomy, Microscopy, Particle Physics, and Quantum Mechanics, 1980-2000_. Stanford University Press, 2008. ISBN: 9780804741484.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262572286) Gitelman, Lisa, and Geoffrey B. Pingree. [_New Media, 1740-1915_](https://mitpress.mit.edu/9780262572286). MIT Press, 2004. ISBN: 9780262572286.
+{{% resource_link "bd50128d-261a-44e9-a8fb-0c422c0315a6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Gitelman, Lisa, and Geoffrey B. Pingree. {{% resource_link "bd50128d-261a-44e9-a8fb-0c422c0315a6" "_New Media, 1740-1915_" %}}. MIT Press, 2004. ISBN: 9780262572286.
 
 Ravel, Jeffrey S. _The Would-Be Commoner: A Tale of Deception, Murder, and Justice in Seventeenth-Century France_. Houghton Mifflin, 2008. ISBN: 9780618197316.
 

@@ -34,13 +34,13 @@ Partial Bibliography
 
 ### A. General
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531078) Crary, Jonathan. [_Techniques of the Observer: On Vision and Modernity in the Nineteenth Century_](https://mitpress.mit.edu/9780262531078). MIT Press, 1992. ISBN: 9780262531078.
+{{% resource_link "fb338de5-2870-4cf1-9db4-5c2371da352d" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Crary, Jonathan. {{% resource_link "fb338de5-2870-4cf1-9db4-5c2371da352d" "_Techniques of the Observer: On Vision and Modernity in the Nineteenth Century_" %}}. MIT Press, 1992. ISBN: 9780262531078.
 
 Jay, Martin. _Downcast Eyes: The Denigration of Vision in Twentieth-Century French Thought_. University of California Press, 1994. ISBN: 9780520088856.
 
 Bryson, Norman, Michael Ann Holly, and Keith Moxey. _Visual Culture: Images and Interpretations_. Wesleyan, 1994. ISBN: 9780819562678.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262531993) Crary, Jonathan. [_Suspensions of Perception: Attention, Spectacle, and Modern Culture_](https://mitpress.mit.edu/9780262531993). MIT Press, 1999. ISBN: 9780262531993.
+{{% resource_link "95ebd74a-09b7-4336-95d6-1e9195a641e5" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Crary, Jonathan. {{% resource_link "95ebd74a-09b7-4336-95d6-1e9195a641e5" "_Suspensions of Perception: Attention, Spectacle, and Modern Culture_" %}}. MIT Press, 1999. ISBN: 9780262531993.
 
 Bal, Mieke. _Looking In: The Art of Viewing_. Routledge, 2001. ISBN: 9789057011122.
 
@@ -50,7 +50,7 @@ Holly, Michael Ann, and Keith Moxey. _Art History, Aesthetics, Visual Studies_. 
 
 Manghani, Sunil, Arthur Piper, and Jon Simons. _Images: A Reader_. Sage, 2006. ISBN: 9781412900454.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262101172) Jones, Caroline A. [_Sensorium: Embodied Experience, Technology, and Contemporary Art_](https://mitpress.mit.edu/9780262101172). MIT Press, 2006. ISBN: 9780262101172.
+{{% resource_link "338821a9-c528-4334-a7df-ad372b92f2ce" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Jones, Caroline A. {{% resource_link "338821a9-c528-4334-a7df-ad372b92f2ce" "_Sensorium: Embodied Experience, Technology, and Contemporary Art_" %}}. MIT Press, 2006. ISBN: 9780262101172.
 
 Stafford, Barbara Maria. _Echo Objects: The Cognitive Work of Images_. University of Chicago Press, 2009. ISBN: 9780226770529.
 
@@ -74,7 +74,7 @@ Baxandall, Michael. _Painting and Experience in Fifteenth-Century Italy: A Prime
 
 Silverman, Deborah L. _Art Nouveau in Fin-de-Siècle France: Politics, Psychology, and Style_. University of California Press, 1992. ISBN: 9780520080881.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262691659) Stafford, Barbara Maria. [_Body Criticism: Imaging the Unseen in Enlightenment Art and Medicine_](https://mitpress.mit.edu/9780262691659). MIT Press, 1993. ISBN: 9780262691659.
+{{% resource_link "c79c40c0-78fe-4f6a-8cb8-335a630abd6b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Stafford, Barbara Maria. {{% resource_link "c79c40c0-78fe-4f6a-8cb8-335a630abd6b" "_Body Criticism: Imaging the Unseen in Enlightenment Art and Medicine_" %}}. MIT Press, 1993. ISBN: 9780262691659.
 
 Kemp, Martin. _Behind the Picture: Art and Evidence in the Italian Renaissance_. Yale University Press, 1997. ISBN: 9780300071955.
 
@@ -82,8 +82,8 @@ Jones, Caroline A. _Eyesight Alone: Clement Greenberg's Modernism and the Bureau
 
 ### C. Web sites
 
-[_Journal of Visual Culture_](http://vcu.sagepub.com/content/current)
+{{% resource_link "204c17a9-d889-4488-8ba5-cf62a9b709ec" "_Journal of Visual Culture_" %}}
 
-[Graduate Program in Visual and Cultural Studies, University of Rochester](https://www.sas.rochester.edu/vcs/)
+{{% resource_link "f127b9f5-3dd8-4c0d-abdc-77ff71950328" "Graduate Program in Visual and Cultural Studies, University of Rochester" %}}
 
-"[Media and Visual Studies Graduate Programs](http://cscl.umn.edu/ugrad/majorminor.html)." Cultural Studies and Comparative Literature, University of Minnesota.
+"{{% resource_link "0d8aeea7-1c5c-415b-887e-8985ce53a3fa" "Media and Visual Studies Graduate Programs" %}}." Cultural Studies and Comparative Literature, University of Minnesota.
