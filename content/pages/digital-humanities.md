@@ -11,12 +11,12 @@ uid: 36ce9337-f122-243c-0bfb-6f57d3a01f9e
 Readings
 --------
 
-Piez, Wendell. "[Something Called 'Digital Humanities](http://digitalhumanities.org/dhq/vol/2/1/000020/000020.html)." _Digital Humanities Quarterly_ 2 (Summer 2008). Also browse the journal at [http://www.digitalhumanities.org/dhq/](http://www.digitalhumanities.org/dhq/)
+Piez, Wendell. "{{% resource_link "5e90cb3e-f490-4ec1-b0bc-777d97555181" "Something Called 'Digital Humanities" %}}." _Digital Humanities Quarterly_ 2 (Summer 2008). Also browse the journal at {{% resource_link "54c395ae-d8c5-4493-ad51-c1f14e02a8d9" "http://www.digitalhumanities.org/dhq/" %}}
 
-Rosenzweig, Roy. "[Scarcity or Abundance? Preserving the Past in a Digital Era](http://dx.doi.org/10.1086/529596)." _American Historical Review_ 108 (June 2003): 735–762.
+Rosenzweig, Roy. "{{% resource_link "96f0ebeb-db9d-4bcf-ac35-041e5713af40" "Scarcity or Abundance? Preserving the Past in a Digital Era" %}}." _American Historical Review_ 108 (June 2003): 735–762.
 
-Darnton, Robert. "[Google and the Future of Books](http://www.nybooks.com/articles/archives/2009/feb/12/google-the-future-of-books/)." _New York Review of Books_, February 12, 2009.
+Darnton, Robert. "{{% resource_link "8a8bf1a7-51cc-4424-a814-17a88fd4c799" "Google and the Future of Books" %}}." _New York Review of Books_, February 12, 2009.
 
 Grafton, Anthony. "Codex in Crisis: The Book Dematerializes." _Worlds Made by Words: Scholarship and Community in the Modern West_. Harvard University Press, 2011, pp. 288-324. ISBN: 9780674060258.
 
-Cohen, Patricia. "[Digital Keys for Unlocking the Humanities' Riches](http://www.nytimes.com/2010/11/17/arts/17digital.html)." _New York Times_, November 16, 2010.
+Cohen, Patricia. "{{% resource_link "785b8698-3956-4385-a093-152e450d21ff" "Digital Keys for Unlocking the Humanities' Riches" %}}." _New York Times_, November 16, 2010.

@@ -13,9 +13,9 @@ Readings
 
 Jefferson, Thomas. _Notes on the State of Virginia_. Edited by David Waldstreicher. Bedford/St. Martin's, 2002, pp. 1-38, 79-208. ISBN: 9780312257132.
 
-Turner, Frederick Jackson. "The Significance of the Frontier in American History." Chapter 1 in [_The Frontier in American History_](http://xroads.virginia.edu/~HYPER/TURNER/home.html). Henry Holt, 1921.
+Turner, Frederick Jackson. "The Significance of the Frontier in American History." Chapter 1 in {{% resource_link "8582220c-4f48-4dfc-8dc5-edc0fecea6e7" "_The Frontier in American History_" %}}. Henry Holt, 1921.
 
-Smith, Henry Nash. "[The Myth of the Garden and Turner's Frontier Hypotheses](http://xroads.virginia.edu/~HYPER/HNS/chap22.html)." Chapter 22 in [_Virgin Land: The American West as Symbol and Myth_](http://xroads.virginia.edu/~HYPER/HNS/home.htm). Harvard University Press, 2007. ISBN: 9780674939554.
+Smith, Henry Nash. "{{% resource_link "4c83cfb4-072a-4309-b850-c9e54e0dc62f" "The Myth of the Garden and Turner's Frontier Hypotheses" %}}." Chapter 22 in {{% resource_link "870636fe-cabc-415b-a883-880dac4de140" "_Virgin Land: The American West as Symbol and Myth_" %}}. Harvard University Press, 2007. ISBN: 9780674939554.
 
 Hofstadter, Richard. "The Frontier as an Explanation." Chapter 4 in _The Progressive Historians: Turner, Beard, Parrington_. Random House, 1985. ISBN: 9780394705910.
 
