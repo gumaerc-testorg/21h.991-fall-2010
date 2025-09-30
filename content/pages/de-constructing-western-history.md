@@ -17,9 +17,9 @@ Revel, Jacques, and Lynn Hunt. Introduction in _Histories: French Constructions 
 
 Trouillot, Michel-Rolph. "An Unthinkable History: The Haitian Revolution as a Non-Event." _Silencing the Past: Power and the Production of History_. Beacon, 1997, pp. 70-107, 167-176. ISBN: 9780807043110.
 
-For fun, look at visual representations of time in Archibald, Sasha, and Daniel Rosenberg. "[A Timeline of Timelines](http://www.cabinetmagazine.org/issues/13/timelines.php)." _Cabinet_ 13 (Spring 2004).
+For fun, look at visual representations of time in Archibald, Sasha, and Daniel Rosenberg. "{{% resource_link "2b2c3168-0ca3-4e3f-a26a-54c21143dd84" "A Timeline of Timelines" %}}." _Cabinet_ 13 (Spring 2004).
 
-Also study [_Chronique du monde depuis la création, et des rois de France et d'Angleterre, jusqu'à l'an 1461_](http://pds.lib.harvard.edu/pds/view/3828490). \[Chronicle of the world since the Creation, and the kings of France and England, through the year 1461.\] MS Typ 41. Houghton Library, Harvard University.
+Also study {{% resource_link "a20e3de6-4aea-4999-804f-19e34770eea2" "_Chronique du monde depuis la création, et des rois de France et d'Angleterre, jusqu'à l'an 1461_" %}}. \[Chronicle of the world since the Creation, and the kings of France and England, through the year 1461.\] MS Typ 41. Houghton Library, Harvard University.
 
 Questions
 ---------
